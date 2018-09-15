@@ -5,8 +5,7 @@ Hello World App for Android
 Building a Hello World App to become acquainted with Android Development
 
 
-<img src="Hello-World-Gif.gif" width=200><br>
-
+![hello-world-gif](https://user-images.githubusercontent.com/25695835/45580505-ecdb5080-b85f-11e8-82e3-72bd3f476d34.gif)
 
 ### Required User Stories
 - [ X ] 1. User sees custom text in a label - Hello from {name}!
