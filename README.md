@@ -1,7 +1,8 @@
+### App Name
 Hello World App for Android
 
 ### App Description
-`TODO://` Add app description
+Building a Hello World App to become acquainted with Android Development
 
 
 <img src="Hello-World-Gif.gif" width=200><br>
