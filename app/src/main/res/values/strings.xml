@@ -4,4 +4,5 @@
     <string name="change_text_color">Change Text Color</string>
     <string name="change_view_color">Change View Color</string>
     <string name="change_string_text">Change String Text</string>
+    <string name="change_to_special_text">Change to Special Text</string>
 </resources>
