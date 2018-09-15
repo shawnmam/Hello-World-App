@@ -55,10 +55,6 @@ public class MainActivity extends AppCompatActivity {
 
                     ((EditText) findViewById(R.id.editText)).setText("");
 
-
-
-
-
                 }
 
             }
@@ -80,6 +76,15 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+
+        findViewById(R.id.button4).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                ((TextView) findViewById(R.id.textView)).setText("Android is Awesome!");
+
+            }
+        });
 
 
     }
